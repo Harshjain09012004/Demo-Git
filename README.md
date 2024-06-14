@@ -1,1 +1,1 @@
-## Just a new demo repository
+## It is a repository of all lectures
